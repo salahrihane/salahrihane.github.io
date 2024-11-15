@@ -8,3 +8,9 @@
 	path = srihanbwebsite/public
 	url = https://github.com/salahrihane/srihane.github.io.git
 	branch = main
+[submodule "srihanbwebsite/themes/hugoplate"]
+	path = srihanbwebsite/themes/hugoplate
+	url = https://github.com/zeon-studio/hugoplate.git
+[submodule "srihanbwebsite/themes/beautifulhugo"]
+	path = srihanbwebsite/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
