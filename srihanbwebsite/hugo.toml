@@ -1,0 +1,4 @@
+baseURL = 'https://srihane.github.io/'
+languageCode = 'en-us'
+title = 'Salah Rihane Personal pages'
+theme="FixIt"

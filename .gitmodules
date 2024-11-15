@@ -1,0 +1,10 @@
+[submodule "themes/FixIt"]
+	path = themes/FixIt
+	url = https://github.com/hugo-fixit/FixIt.git
+[submodule "srihanbwebsite/themes/FixIt"]
+	path = srihanbwebsite/themes/FixIt
+	url = https://github.com/hugo-fixit/FixIt.git
+[submodule "srihanbwebsite/public"]
+	path = srihanbwebsite/public
+	url = https://github.com/salahrihane/srihane.github.io.git
+	branch = main
