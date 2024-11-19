@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Salah Rihane</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://salahrihane.github.io/tags/</link>
     <description>Recent content in Tags on Salah Rihane</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://salahrihane.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
-      <link>http://localhost:1313/tags/example/</link>
+      <link>https://salahrihane.github.io/tags/example/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/example/</guid>
+      <guid>https://salahrihane.github.io/tags/example/</guid>
       <description></description>
     </item>
     <item>
       <title>Photoswipe</title>
-      <link>http://localhost:1313/tags/photoswipe/</link>
+      <link>https://salahrihane.github.io/tags/photoswipe/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/photoswipe/</guid>
+      <guid>https://salahrihane.github.io/tags/photoswipe/</guid>
       <description></description>
     </item>
     <item>
       <title>Bigimg</title>
-      <link>http://localhost:1313/tags/bigimg/</link>
+      <link>https://salahrihane.github.io/tags/bigimg/</link>
       <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bigimg/</guid>
+      <guid>https://salahrihane.github.io/tags/bigimg/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>http://localhost:1313/tags/math/</link>
+      <link>https://salahrihane.github.io/tags/math/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/math/</guid>
+      <guid>https://salahrihane.github.io/tags/math/</guid>
       <description></description>
     </item>
     <item>
       <title>Code</title>
-      <link>http://localhost:1313/tags/code/</link>
+      <link>https://salahrihane.github.io/tags/code/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/code/</guid>
+      <guid>https://salahrihane.github.io/tags/code/</guid>
       <description></description>
     </item>
   </channel>
